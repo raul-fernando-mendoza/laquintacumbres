@@ -1,0 +1,65 @@
+.scrollwrapper {
+	z-index: 1;
+	left: 0;
+	width: 100%;
+	height:2.6em;
+	overflow: hidden;
+	/*background:red;*/
+}
+
+.scroller {
+	position: absolute;
+	z-index: 1;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	width: 5000px;
+	-webkit-transform: translateZ(0);
+	-moz-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	-o-transform: translateZ(0);
+	transform: translateZ(0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-o-text-size-adjust: none;
+	text-size-adjust: none;
+	padding:0px;
+	margin:0px;
+	/*background:green;
+	border: 1px solid #ccc;*/
+}
+
+[data-role="mynavbar"]{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+	/*background:green;
+	border: 1px solid black;*/
+}
+
+[data-role="mynavbar"] li {
+	display: block;
+	float: left;
+	font-size: 1em;
+	/*border: 1px solid #ccc;
+	background-color: #fafafa;*/
+	
+}
+[data-role="mynavbar"] li [data-role="button"]{
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+	
+}
+[data-role="mynavbar"] li a{
+	margin-left: 0-5em;
+	margin-right: 2em;
+	
+}
+
+
