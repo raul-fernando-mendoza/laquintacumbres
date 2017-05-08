@@ -67,7 +67,8 @@ $conn->close();
 				 events[i].begin.getMonth() == date.getMonth() &&        // same month?
 				 events[i].begin.getDate() == date.getDate() ) {        // same date?
 				  // There is an event!
-				 $("#message").html("<a href='http://www.laquintacumbres.com/php/db_remove.php?id=" + events[i].id + " rel='external'>Remove</a>" );
+				 $("#message").html('<table width="100%"><tr><td><a href="http://www.laquintacumbres.com/php/db_remove.php?id=' + events[i].id + '" rel="external">Remove</a>' + 
+				 '<td/><td><a href="http://www.laquintacumbres.com/php/db_edit_data.php?id=' + events[i].id + '" rel="external">Edit</a></td></table>');
 				 return false;
 			}
 		}
