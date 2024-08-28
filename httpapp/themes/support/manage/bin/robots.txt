@@ -1,0 +1,8 @@
+User-agent: Googlebot 
+Disallow: /email/ 
+Disallow: /lib/
+Disallow: /lang/
+Disallow: /images/
+Disallow: /BOTS
+Disallow: /Support
+Disallow: /PabloZEBI

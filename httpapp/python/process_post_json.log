@@ -1,0 +1,428 @@
+DEBUG:root:process_post_json called
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:args:
+ERROR:root:error:Expecting value: line 1 column 1 (char 0)
+DEBUG:root:process_post_json called
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+DEBUG:root:process_post_json called
+ERROR:root:error:name 'environ' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+ERROR:root:error:name 'die' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+ERROR:root:error:name 'die' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+ERROR:root:error:name 'die' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+ERROR:root:error:name 'die' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+ERROR:root:error:name 'die' is not defined
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:GET
+DEBUG:root:args:
+ERROR:root:error:Expecting value: line 1 column 1 (char 0)
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:GET
+DEBUG:root:args:
+ERROR:root:error:Expecting value: line 1 column 1 (char 0)
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:GET
+DEBUG:root:args:
+ERROR:root:error:Expecting value: line 1 column 1 (char 0)
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:GET
+DEBUG:root:args:
+ERROR:root:error:Expecting value: line 1 column 1 (char 0)
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:OPTIONS
+DEBUG:root:args:
+DEBUG:root:responding to options
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what":"GetExamen","entities":{"id":15}}
+DEBUG:root:{
+    "entities": {
+        "id": 15
+    },
+    "what": "GetExamen"
+}
+DEBUG:root:end.
+DEBUG:root:process_post_json called
+DEBUG:root:REQUEST_METHOD:POST
+DEBUG:root:args:{"what": "getObservacion", "tipo_examen_id":"1"}
+DEBUG:root:{
+    "tipo_examen_id": "1",
+    "what": "getObservacion"
+}
+DEBUG:root:end.

@@ -1,0 +1,8 @@
+User-agent: Googlebot 
+Disallow: /account/ 
+Disallow: /proteger/
+Disallow: /webroot/
+
+Disallow: /BOTS
+Disallow: /Support
+Disallow: /PabloZEBI

@@ -44,11 +44,11 @@ if ($result->num_rows > 0) {
         echo '}';
 
     }
-    echo "],";
-} else {
-    echo "0 results";
-}
 
+} else {
+    echo "";
+}
+      echo "],";
 
 $conn->close();
 ?>
