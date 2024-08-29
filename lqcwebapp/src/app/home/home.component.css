@@ -1,0 +1,13 @@
+img{
+    margin:10px;
+}   
+.lefttext{
+    width: 100%;
+}
+.bar{
+    width:100%;
+}
+mat-divider{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}

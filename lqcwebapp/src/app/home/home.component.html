@@ -1,0 +1,46 @@
+<div class="bar">
+    <span class="spacer"></span>
+    <span><h1>Bienvenido a LaQuintaCumbres</h1></span>
+    <span class="spacer"></span>
+</div>
+<mat-grid-list  cols="12" rowHeight="25em">
+    <mat-grid-tile colspan="1"></mat-grid-tile>
+    <mat-grid-tile class="main_image" colspan="10" >
+        <img [src]="imageUrl" >
+    </mat-grid-tile>    
+    <mat-grid-tile colspan="1"></mat-grid-tile>
+</mat-grid-list>
+
+<mat-grid-list  cols="12" rowHeight="3em">
+    <mat-grid-tile colspan="1"></mat-grid-tile>
+    <mat-grid-tile class="main_image" colspan="10" >
+        <div class="bar">
+            <span>whatsapp:</span><span><h2>81-8016-8013</h2></span>
+            <span class="spacer"></span>
+            <span><h3>Colonia: Los Cedros, Monterrey, Nuevo Leon</h3></span>
+        </div>
+    </mat-grid-tile>    
+    <mat-grid-tile colspan="1"></mat-grid-tile>
+</mat-grid-list>
+
+<mat-divider></mat-divider>
+
+<mat-grid-list  cols="12" rowHeight="15em">
+    @for( p of imagelst; track p;let idx = $index){
+        <mat-grid-tile colspan="1"></mat-grid-tile>
+        @if( idx % 2 > 0){
+            <mat-grid-tile colspan="1"></mat-grid-tile>  
+        }         
+        <mat-grid-tile class="card_image" colspan="4" >
+            <img [src]="p" >
+        </mat-grid-tile> 
+        @if( idx % 2 > 0){
+            <mat-grid-tile colspan="1"></mat-grid-tile>  
+        } 
+    }      
+
+</mat-grid-list>
+
+    
+
+
