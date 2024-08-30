@@ -5,11 +5,12 @@ import {GalleryModule, GalleryItem, ImageItem } from 'ng-gallery';
 import { map, Observable, shareReplay } from 'rxjs';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { CommonModule } from '@angular/common';
+import {MatToolbarModule} from '@angular/material/toolbar';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, MatGridListModule,MatDividerModule,GalleryModule],
+  imports: [CommonModule, MatGridListModule,MatDividerModule,GalleryModule,MatToolbarModule],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
