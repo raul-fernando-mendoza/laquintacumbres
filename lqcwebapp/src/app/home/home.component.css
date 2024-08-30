@@ -3,4 +3,6 @@ mat-divider{
     margin-top: 2em;
     margin-bottom: 2em;
 }
-
+.bar{
+    width:100%;
+}
