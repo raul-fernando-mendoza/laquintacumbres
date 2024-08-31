@@ -22,28 +22,23 @@ export class HomeComponent {
     shareReplay()
   );
 
-  imageUrl="/assets/images/lqc1.jpg";
 
   images: GalleryItem[] = [
-    new ImageItem({src: "/assets/images/lqc10.jpeg", thumb: "/assets/images/lqc10.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc11.jpeg", thumb: "/assets/images/lqc11.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc12.jpeg", thumb: "/assets/images/lqc12.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc13.jpeg", thumb: "/assets/images/lqc13.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc14.jpeg", thumb: "/assets/images/lqc14.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc15.jpeg", thumb: "/assets/images/lqc15.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc16.jpeg", thumb: "/assets/images/lqc16.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc17.jpeg", thumb: "/assets/images/lqc17.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc18.jpeg", thumb: "/assets/images/lqc18.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc19.jpeg", thumb: "/assets/images/lqc19.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc20.jpeg", thumb: "/assets/images/lqc20.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc21.jpeg", thumb: "/assets/images/lqc21.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc22.jpeg", thumb: "/assets/images/lqc22.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc23.jpeg", thumb: "/assets/images/lqc23.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc24.jpeg", thumb: "/assets/images/lqc24.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc25.jpeg", thumb: "/assets/images/lqc25.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc26.jpeg", thumb: "/assets/images/lqc26.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc27.jpeg", thumb: "/assets/images/lqc27.jpeg"}),
-    new ImageItem({src: "/assets/images/lqc28.jpeg", thumb: "/assets/images/lqc28.jpeg"})
+    new ImageItem({src: "/assets/images/lqc1.jpg", thumb: "/assets/images/lqc1.jpg"}),
+    new ImageItem({src: "/assets/images/lqc2.jpg", thumb: "/assets/images/lqc2.jpg"}),
+    new ImageItem({src: "/assets/images/lqc3.jpg", thumb: "/assets/images/lqc3.jpg"}),
+    new ImageItem({src: "/assets/images/lqc4.jpg", thumb: "/assets/images/lqc4.jpg"}),
+    new ImageItem({src: "/assets/images/lqc5.jpg", thumb: "/assets/images/lqc5.jpg"}),
+    new ImageItem({src: "/assets/images/lqc6.jpg", thumb: "/assets/images/lqc6.jpg"}),
+    new ImageItem({src: "/assets/images/lqc7.jpg", thumb: "/assets/images/lqc7.jpg"}),
+    new ImageItem({src: "/assets/images/lqc8.jpg", thumb: "/assets/images/lqc8.jpg"}),
+    new ImageItem({src: "/assets/images/lqc9.jpg", thumb: "/assets/images/lqc9.jpg"}),
+    new ImageItem({src: "/assets/images/lqc10.jpg", thumb: "/assets/images/lqc10.jpg"}),
+    new ImageItem({src: "/assets/images/lqc11.jpg", thumb: "/assets/images/lqc11.jpg"}),
+    new ImageItem({src: "/assets/images/lqc12.jpg", thumb: "/assets/images/lqc12.jpg"}),
+    new ImageItem({src: "/assets/images/lqc13.jpg", thumb: "/assets/images/lqc13.jpg"}),
+    new ImageItem({src: "/assets/images/lqc14.jpg", thumb: "/assets/images/lqc14.jpg"}),
+    new ImageItem({src: "/assets/images/lqc15.jpg", thumb: "/assets/images/lqc15.jpg"})
   ]
 
   constructor(private breakpointObserver: BreakpointObserver){

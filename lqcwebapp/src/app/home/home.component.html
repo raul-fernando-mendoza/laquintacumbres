@@ -3,13 +3,8 @@
     <span><h1>LaQuintaCumbres</h1></span>
     <span class="spacer"></span>
 </mat-toolbar>
-
-<gallery [items]="images"></gallery>
-
-
-
+<gallery class="gallery" [items]="images"></gallery> 
 <mat-divider></mat-divider> 
-
 @if(!(isHandset$ | async)){
     <mat-grid-list  cols="12" rowHeight="3em">
         <mat-grid-tile colspan="1"></mat-grid-tile>
